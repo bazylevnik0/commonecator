@@ -14,4 +14,4 @@ Fork -> Change(Customize) -> Travel -> Interact<br><br>
 
 Entry page: https://bazylevnik0.github.io/see-you-later-hackulator/ <br>
 Description & Instruction <br>
-Golden app: https://codesandbox.io/s/github/bazylevnik0/sylh-golden/tree/main/ <br>
+Golden app: temp(https://codesandbox.io/s/golden-person-sj3ov) <br>
