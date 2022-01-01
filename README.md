@@ -4,6 +4,6 @@
 <p>made in hachathon "see-you-later-hackulator" for devpost</p>
 <hr>
 <h3>Description:</h3>
-I heard something about Web 3.0 but Wikipedia not have current answer for this termin. Maybe in this project it will be good thinking about it...<br>
+<i>I heard something about Web 3.0 but Wikipedia not have current answer for this termin. Maybe in this project it will be good thinking about it...</i><br>
 <b>Person = app</b><br>
 <b>Golden person = template person(constructor)</b>
