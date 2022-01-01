@@ -32,3 +32,7 @@ New persons can creates, live and communicate.
  <li>in src folder: <code>node index.js</code>
  <p>*if you not in global environment you will be like a ghost, with fake body and you can only send messages</p>
  </ul>
+<hr>
+<i>App was bulded by bazylevnik0 with love to Richmond Avenal - because he only one who know how work.</i><br>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/190118078@N05/51791897758/in/dateposted-public/" title="aBAu6pbQUnzj68aFWXzcfdskvRDGPIDYE-sImqirbqY"><img src="https://live.staticflickr.com/65535/51791897758_93989b6477_w.jpg" width="400" height="220" alt="aBAu6pbQUnzj68aFWXzcfdskvRDGPIDYE-sImqirbqY"></a>
+<i><a href="https://www.youtube.com/watch?v=12LLJFSBnS4">https://www.youtube.com/watch?v=12LLJFSBnS4</a></i><br>
