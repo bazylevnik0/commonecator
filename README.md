@@ -4,7 +4,7 @@
 <p>made as a project in hachathon "see-you-later-hackulator" at Major League Hacking</p>
 <hr>
 <h3>Description:</h3>
-<i>I have heard something about Web 3.0 but Wikipedia doesn't have enough resources for this term. Maybe this project will be good thinking about it...</i><br><br>
+<i>I have heard something about Web 3.0 but Wikipedia doesn't have definite answer for this term. Maybe this project will be good thinking about it...</i><br><br>
 <b>Each Person = app</b><br>
 <b>Golden person = template person(constructor)</b><br>
 <b>A Person has a head and a body. Every Person has an unique ID.</b></br> 
@@ -22,7 +22,7 @@ New persons can be created. They can live and communicate!!
    <li>Enter secret designation ID of person, and a message to him/her</li> 
   </ul>
  </li>
- <li> To live: I don’t teach your how to live, and what is life? You can write your perspective of life...</li>
+ <li> To live: I don’t teach your how to live, and what is life? You can write your person's perspective of life...</li>
 </ul>
 Messages publishing in body.
 <hr>
