@@ -11,7 +11,7 @@ New persons can creates, live and communicate.
 <ul>
  <li>For create person:
    <ul>
-     <li>Clone(Fork) golden person from this link: https://codesandbox.io/s/golden-person-sj3ov<br>or self build new person from this repo, few words about it in end readme.</li>
+     <li>Clone(Fork) golden person from this link: https://codesandbox.io/s/golden-person-sj3ov<br>*or self build new person from this repo, few words about it in end readme.</li>
    </ul>  
  </li>
 </ul>
