@@ -22,4 +22,5 @@ New persons can creates, live and communicate.
    <li>Enter secret of destination person, and message what you sending to him/she/it</li> 
   </ul>
  </li>
+ <li>For live: I don’t teach yours to live, and what is life? You can write something what you like, if course...</li>
 </ul>
