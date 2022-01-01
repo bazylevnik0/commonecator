@@ -7,11 +7,13 @@
 <i>I heard something about Web 3.0 but Wikipedia not have current answer for this termin. Maybe in this project it will be good thinking about it...</i><br><br>
 <b>Person = app</b><br>
 <b>Golden person = template person(constructor)</b><br>
+<b>Person have head and body. Person have unique ID.</b></br> 
 New persons can creates, live and communicate.
 <ul>
  <li>For create person:
    <ul>
      <li>Clone(Fork) golden person from this link: https://codesandbox.io/s/golden-person-sj3ov<br>*or self build new person from this repo, few words about it in end readme.</li>
+     <li>After creating can set person's secret, it is secret phrase. Set it in code (src/index.js), or don't touch and still this default "123". 
    </ul>  
  </li>
 </ul>
