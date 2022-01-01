@@ -24,3 +24,11 @@ New persons can creates, live and communicate.
  </li>
  <li>For live: I don’t teach yours to live, and what is life? You can write something what you like, of course...</li>
 </ul>
+<hr>
+<h4>*Self buildng:</h4>
+<ul>
+ <li>Download golden-person.zip</li>
+ <li><code>npm-install</code></li>
+ <li>in src folder: <code>node index.js</code>
+ <p>*if you not in global environment you will be like a ghost, with fake body and you can only send messages</p>
+ </ul>
