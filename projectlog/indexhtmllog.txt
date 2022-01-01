@@ -1,0 +1,50 @@
+<html>
+  <head>
+    <title>
+    </title>
+    <style>
+      div,h1,h2,p,input{
+        display : block;
+      }
+      canvas {
+        width: 200px;
+        height: 200px;
+        border: 2px solid black;
+      }
+      input {
+        margin: 5px;
+      }
+    </style>
+  </head>
+  <body>
+
+<h1>I:</h1>
+<div id="person">
+<h2>My ID:</h2>
+<p id="id-p"><%= id %></p>
+<form id="form">
+<h3>Connect to:</h3>
+<input id="form-adress-input" for="form"></input>
+<h3>Message:</h3>
+<input id="form-message-input" for="form" name="message"></input>
+<a href="" id="form-a" for="form" >Send</a>
+</form>
+<h2>My page:</h3>
+<p id="page">non</p>
+</div>
+</body>
+<script>
+  let form_adress_input  = document.getElementById("form-adress-input");
+  let form_message_input = document.getElementById("form-message-input");
+  let form_a        = document.getElementById("form-a");  
+
+  form_adress_input.addEventListener( "change" , function (event) {
+    <% console.log("typing") %>
+    form_a.href = "https://"+form_adress_input.value + "/msg/" + form_message_input.value;
+  })
+  form_message_input.addEventListener( "change" , function (event) {
+    <% console.log("typing") %>
+    form_a.href = "https://"+form_adress_input.value + "/msg/" + form_message_input.value;
+  })
+</script>
+</html>
