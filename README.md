@@ -16,4 +16,10 @@ New persons can creates, live and communicate.
      <li>After creating can set person's secret, it is secret phrase. Set it in code (src/index.js), or don't touch and still this default "123". 
    </ul>  
  </li>
+ <li>For communicate:
+  <ul>
+   <li>Enter person's destination ID in "Connect to" input</li>
+   <li>Enter secret of destination person, and message what you sending to him/she/it</li> 
+  </ul>
+ </li>
 </ul>
