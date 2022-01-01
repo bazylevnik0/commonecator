@@ -5,5 +5,5 @@
 <hr>
 <h3>Description:</h3>
 I heard something about Web 3.0 but Wikipedia not have current answer for this termin. Maybe in this project it will be good thinking about it...<br>
-<b>Person = app</b>
+<b>Person = app</b><br>
 <b>Golden person = template person(constructor)</b>
