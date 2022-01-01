@@ -3,24 +3,26 @@ const ejs = require("ejs");
 const app = express();
 
 //person
-//only 3 numbers pls 0-999!
-var secret = "123";
-var id = "";
-var body = "";
+var secret = "123"; //only 3 numbers pls 0-999!
+var id = "";        //sets automatically after first running
+var body = "";      //updating while listening, update inner page for refresh
+
 //create a server object:
 app.set("view engine", "ejs");
 app.use(express.urlencoded({ extended: true }));
 
 app.get("/", function (req, res) {
   id = "" + res.req.headers["x-forwarded-host"];
-  res.render("front", { id: id });
+  res.render("front", { id: id, body: body });
 });
 
 app.get("/msg/:message", function (req, res) {
-  console.log(("req", req.params.message));
-  //if message.secret = secret
-  //post to body
-  //redirect to /
+  let message = req.params.message;
+  let secret_inp = message.slice(0, 3);
+  let text_inp = message.slice(3);
+  if (secret_inp == secret) {
+    body += " " + text_inp;
+  }
 });
 
 app.listen(8080, function () {
