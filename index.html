@@ -24,6 +24,7 @@ New persons can creates, live and communicate.
  </li>
  <li>For live: I don’t teach yours to live, and what is life? You can write something what you like, of course...</li>
 </ul>
+Messages publishing in body.
 <hr>
 <h4>*Self buildng:</h4>
 <ul>
